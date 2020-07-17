@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" type="text/css" href="style.css">
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+   
+    <style type="text/css">
+    	body {
+    		margin: 0;
+    		padding: 0;
+			font-family: 'Open Sans', sans-serif;
+			background-color: #F5F5F5;
+		}
+		
+		a {
+			text-decoration-line: none;
+		}
+		a:hover {
+			text-decoration-line: none;
+			color-rendering: #007fae;
+		}
+
+		button {
+			background-color: #4B9CD3; /* Carolina Blue */
+		 	border: 1px;
+		 	border-radius: 4px;
+		 	color: white;
+		 	padding: 10px 24px;
+		 	text-align: center;
+		 	text-decoration: none;
+		 	display: inline-block;
+		 	font-size: 16px;
+		 	width: 250px;
+		}
+		
+		li {
+			margin: 15px;
+		}
+		
+		nav {
+			color: white;
+			font-family: "times new roman";
+			padding: 10px;
+			background-color: #007fae;
+		}
+		
+		.navlink {
+			color: white;
+			font-weight: 400;
+		}
+
+    </style>
+
+    <title>Biology Facilities Request</title>
+  </head>
+
+  <body>
+  	
+  	<nav>
+  		<div>
+  			<a class="navlink" href="https://bio.unc.edu/">UNC DEPARTMENT <em>of</em>&nbsp BIOLOGY</a>
+  		</div>
+  	</nav>
+
+  	<div id="content" align="center">
+
+		<div>
+			<ul style="list-style-type: none;">
+				<li><h1>Welcome to Biology Facilities</h1>
+				</li>
+				<li>
+					<a href="http://facilities.bio.unc.edu/request.asp"><button>Submit New Request</button></a>
+				</li>
+				<li>
+					<a href="http://facilities.bio.unc.edu/status.asp"><button>My Requests</button></a>
+				</li>
+				<li><br></li>
+				<li>
+					<h3>Facilities Staff Access</h3>
+				</li>
+				<li>
+					<a href="http://facilities.bio.unc.edu/staff.asp"><button>Active Requests</button></a>
+				</li>
+				<li>
+					<a href="http://facilities.bio.unc.edu/AllRequests.asp"><button>All Requests</button></a>
+				</li>
+				<li>
+					<h4><em>please use your onyen and password for the request system</em></h4>
+				</li>
+				<li>
+					<h3>For urgent needs, please also contact Biology Facilities by <span><a href="https://bio.unc.edu/people/staff/">phone</a></span> or in person!</h3>
+				</li>
+			</ul>
+		</div>
+		
+	</div>
